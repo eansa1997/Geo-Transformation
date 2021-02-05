@@ -1,4 +1,4 @@
-function hw4p1()
+function GeoTransformation()
     movingImg = imread('BrainProtonDensitySliceR10X13Y17.png');
     
     % points manually selected by control point selection tool
