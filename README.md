@@ -1,6 +1,6 @@
 # Geo-Transformation   
-A MATLAB program that replicates the functionality of the built in geometric transformation ![fitgeotrans](https://www.mathworks.com/help/images/ref/fitgeotrans.html)   
-Control points are manually selected using MATLABS ![control point selection tool.](https://www.mathworks.com/help/images/ref/cpselect.html)    
+A MATLAB program that replicates the functionality of the built in geometric transformation [fitgeotrans](https://www.mathworks.com/help/images/ref/fitgeotrans.html)   
+Control points are manually selected using MATLABS [control point selection tool.](https://www.mathworks.com/help/images/ref/cpselect.html)    
 This program calculates the affine2D matrix by manipulating the formula (x' = A * x )   
 where x' is the set of fixed points,   
 x is the set of moving points,   
