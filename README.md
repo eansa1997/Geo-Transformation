@@ -6,4 +6,8 @@ where x' is the set of fixed points,
 x is the set of moving points,   
 and A is the affine 2D matrix.     
 Since we have the control points, we can calculate the matrix A by (A = x' * x^-1 )   
-Then for every pixel in the moving image we map it into the desired orientation.
+Then for every pixel in the moving image we map it into the desired orientation.   
+
+# Example
+Target Orientation    
+![Target Image](/BrainProtonDensitySliceBorder20.png)
